@@ -1,0 +1,14 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "date-now",
+  "main": "01-third-module.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "pankaiya",
+  "license": "ISC",
+  "dependencies": {
+    "date-now": "^1.0.1"
+  }
+}
